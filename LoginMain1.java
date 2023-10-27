@@ -12,7 +12,7 @@ public static void main(String[] args) {
     Password = "Amireddi";
     Username = "Kiran";
 	boolean granted = false;
-for(int i = 0; i < 3; i++) {
+    for(int i = 0; i < 3; i++) {
     Scanner input1 = new Scanner(System.in);
     System.out.println("Enter Username : ");
     String user = input1.next();
